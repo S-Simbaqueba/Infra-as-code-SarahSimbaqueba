@@ -270,6 +270,9 @@ If you encounter credential errors:
 If you encounter AMI lookup issues:
 - Verify the AWS region in `provider "aws"` matches where you want to deploy
 - Re-run `terraform plan` to refresh the AMI data source lookup
+<<<<<<< HEAD
 
 ![alt text](image.png)
 ![alt text](image-1.png)
+=======
+>>>>>>> fa8ff408cbc681ba6af7faaeecfac2e35e2427aa

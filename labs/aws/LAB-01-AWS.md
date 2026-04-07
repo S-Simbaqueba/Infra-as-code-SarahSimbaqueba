@@ -198,3 +198,6 @@ No clean up is required for this lab as no AWS resources were created.
 - You successfully fixed the version constraint
 - The AWS provider is properly initialized
 - The `.terraform.lock.hcl` file is created
+
+![alt text](image.png)
+![alt text](image-1.png)
